@@ -56,12 +56,11 @@ SLA/SLO design • Load testing
 
 ---
 
-<table>
-<tr>
-<td><strong>Experience</strong></td>
-<td align="right">📍 Bangalore, India</td>
-</tr>
-</table>
+<div align="center">
+
+## Experience
+
+</div>
 
 **Adobe — MTS-2 (Software Engineer)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📍 Bangalore, India
 
