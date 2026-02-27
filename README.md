@@ -48,7 +48,9 @@ SLA/SLO design • Load testing
 
 ## Experience
 
-### Adobe — MTS-2 (Software Engineer)
+| **Adobe — MTS-2 (Software Engineer)** | 📍 Bangalore, India |
+|--------------------------------------|---------------------|
+
 Building scalable backend infrastructure and distributed services.
 
 Key work includes:
