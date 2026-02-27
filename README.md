@@ -1,12 +1,18 @@
-<h1 align="center">Hi, I'm Dushyant Goyal</h1>
+<div align="center">
 
-<p align="center">
-Backend Engineer • Distributed Systems • Scalability • Performance
-</p>
+# Hi, I'm Dushyant Goyal
+
+**Backend Engineer • Distributed Systems • Scalability • Performance**
+
+</div>
 
 ---
 
+<div align="center">
+
 ## About Me
+
+</div>
 
 - Backend Engineer at **Adobe**
 - Building **high-scale distributed systems** handling hundreds of thousands of requests per minute
@@ -15,7 +21,11 @@ Backend Engineer • Distributed Systems • Scalability • Performance
 
 ---
 
+<div align="center">
+
 ## Tech Stack
+
+</div>
 
 **Languages**
 
@@ -46,10 +56,13 @@ SLA/SLO design • Load testing
 
 ---
 
+<div align="center">
+
 ## Experience
 
-| **Adobe — MTS-2 (Software Engineer)** | 📍 Bangalore, India |
-|--------------------------------------|---------------------|
+</div>
+
+### Adobe — MTS-2 (Software Engineer) · 📍 Bangalore, India
 
 Building scalable backend infrastructure and distributed services.
 
@@ -66,7 +79,11 @@ Previously worked on **Creative Cloud Fulfillment Center**, processing
 
 ---
 
+<div align="center">
+
 ## Notable Projects
+
+</div>
 
 ### Production Express Template System
 Adobe-wide hackathon finalist project optimizing template discovery and ranking.
@@ -79,7 +96,11 @@ React Native • Node.js • MongoDB
 
 ---
 
+<div align="center">
+
 ## Interests
+
+</div>
 
 - Distributed systems architecture
 - High-performance backend engineering
@@ -88,8 +109,10 @@ React Native • Node.js • MongoDB
 
 ---
 
+<div align="center">
+
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/dushyant-goyal-950350192/) • [GitHub](https://github.com/dushyantgoyal001) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dushyantgoyal001)
+[LinkedIn](https://www.linkedin.com/in/dushyant-goyal-950350192/) • [GitHub](https://github.com/dushyantgoyal001) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dushyantgoyal001) • dushyantgoyal001@gmail.com
 
-dushyantgoyal001@gmail.com
+</div>
