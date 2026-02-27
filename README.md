@@ -90,6 +90,6 @@ React Native • Node.js • MongoDB
 
 ## Connect With Me
 
-[LinkedIn](https://linkedin.com/in/dushyantgoyal001) • [GitHub](https://github.com/dushyantgoyal001) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dushyantgoyal001)
+[LinkedIn](https://www.linkedin.com/in/dushyant-goyal-950350192/) • [GitHub](https://github.com/dushyantgoyal001) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dushyantgoyal001)
 
 dushyantgoyal001@gmail.com
