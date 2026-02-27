@@ -56,15 +56,14 @@ SLA/SLO design • Load testing
 
 ---
 
-<div align="center">
-
-## Experience
-
-</div>
+<table>
+<tr>
+<td><strong>Experience</strong></td>
+<td align="right">📍 Bangalore, India</td>
+</tr>
+</table>
 
 **Adobe — MTS-2 (Software Engineer)**
-
-<p align="right">📍 Bangalore, India</p>
 
 Building scalable backend infrastructure and distributed services.
 
