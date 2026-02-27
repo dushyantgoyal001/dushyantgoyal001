@@ -113,6 +113,6 @@ React Native • Node.js • MongoDB
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/dushyant-goyal-950350192/) • [GitHub](https://github.com/dushyantgoyal001) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dushyantgoyal001) • dushyantgoyal001@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dushyant-goyal-950350192/) • [GitHub](https://github.com/dushyantgoyal001) • [GeeksforGeeks](https://auth.geeksforgeeks.org/user/dushyantgoyal001) • [LeetCode](https://leetcode.com/u/dushyantgoyal17/) • dushyantgoyal001@gmail.com
 
 </div>
