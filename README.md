@@ -62,7 +62,7 @@ SLA/SLO design • Load testing
 
 </div>
 
-**Adobe — MTS-2 (Software Engineer)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📍 Bangalore, India
+**Adobe — MTS-2 (Software Engineer)** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 📍 Bangalore, India
 
 Building scalable backend infrastructure and distributed services.
 
